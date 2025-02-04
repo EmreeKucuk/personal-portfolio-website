@@ -4,7 +4,7 @@ This repository is about my personal information about education, skills and exp
 
 
 
-## Fork the repository
+## To Clone the repository
 
 To clone, follow these steps:
 
